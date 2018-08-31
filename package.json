@@ -1,0 +1,23 @@
+{
+  "name": "incremental-stats-lite",
+  "version": "0.1.0",
+  "description": "Incremental stats",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandojsg/incremental-stats-lite.git"
+  },
+  "author": "Fernando Serrano <fernandojsg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandojsg/incremental-stats-lite/issues"
+  },
+  "homepage": "https://github.com/fernandojsg/incremental-stats-lite#readme",
+  "devDependencies": {
+    "rollup": "^0.64.1",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
